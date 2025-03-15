@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">mppl2304_1</string>
+    <string name="art_gallery" translatable="false">Art Gallery</string>
+    <string name="okcontinue">Continue</string>
+    <string name="Select">Select painter </string>
+    <string name="leonardo_da_vinci" translatable="false">Leonardo da Vinci</string>
+    <string name="mona_lisa_details">Considered an archetypal masterpiece of the Italian Renaissance. The painting\'s novel qualities include the subject\'s enigmatic expression, monumentality of the composition, the subtle modelling of forms, and the atmospheric illusionism. The painting has been traditionally considered to depict the Italian noblewoman Lisa del Giocondo. It is painted in oil on a white poplar panel. The painting\'s global fame and popularity partly stem from its 1911 theft by Vincenzo Peruggia, who attributed his actions to Italian patriotism—a belief it should belong to Italy.</string>
+    <string name="mona_lisa" translatable="false">Mona Lisa</string>
+    <string name="vincent_van_gogh" translatable="false">Vincent van Gogh</string>
+    <string name="starry_night_details">It depicts the view from the east-facing window of his asylum room at Saint-Rémy-de-Provence, just before sunrise, with the addition of an imaginary village. It has been in the permanent collection of the Museum of Modern Art in New York City since 1941, acquired through the Lillie P. Bliss Bequest. It is an oil-on-canvas painting painted in June 1889.</string>
+    <string name="starry_night" translatable="false">Starry Night</string>
+    <string name="pablo_picasso" translatable="false">Pablo Picasso</string>
+    <string name="child_with_dove_details">Child with a Dove, also described as Child Holding a Dove, Child with a Pigeon is an oil-on-canvas painting by the Spanish artist Pablo Picasso, which he created in 1901 at the start of his Blue Period. The painting is a depiction of a young girl in a white dress holding a white dove, and represents an important transitional moment in the artist’s career. It was on public display at the National Gallery in London, England for nearly four decades before its private sale in 2012, when it achieved a price of £50 million.</string>
+    <string name="child_with_dove" translatable="false">Child with Dove</string>
+    <string name="salvador_dali" translatable="false">Salvador Dalí</string>
+    <string name="persistence_of_memory_details">The Persistence of Memory (Spanish: La persistencia de la memoria) is a 1931 painting by artist Salvador Dalí and one of the most recognizable works of Surrealism. First shown at the Julien Levy Gallery in 1932, since 1934 the painting has been in the collection of the Museum of Modern Art (MoMA) in New York City, which received it from an anonymous donor. It is widely recognized and frequently referred to in popular culture, and sometimes referred to by more descriptive titles, such as The Melting Clocks, The Soft Watchesor The Melting Watches.</string>
+    <string name="persistence_of_memory" translatable="false">The Persistence of Memory</string>
+    <string name="michelangelo" translatable="false">Michelangelo</string>
+    <string name="sistine_chapel_details">The Sistine Chapel ceiling (Italian: Soffitto della Cappella Sistina), painted in fresco by Michelangelo between 1508 and 1512, is a cornerstone work of High Renaissance art. The Sistine Chapel is the large papal chapel built within the Vatican between 1477 and 1480 by Pope Sixtus IV, for whom the chapel is named. The ceiling was painted at the commission of Pope Julius II.</string>
+    <string name="sistine_chapel" translatable="false">Sistine Chapel</string>
+
+</resources>
